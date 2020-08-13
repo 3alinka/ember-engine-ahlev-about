@@ -1,7 +1,9 @@
 About Module
 ==============================================================================
 
-This is a module of [ahlev.com](https://ahlev.com). It takes care of site information.
+This is a module of [ahlev.com](https://ahlev.com).
+
+The architecture design could be found in [Main App](https://github.com/ohahlev/ember-ahlev-app)
 
 
 Compatibility
