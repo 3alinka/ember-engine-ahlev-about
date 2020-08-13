@@ -1,7 +1,7 @@
-ember-engine-ahlev-about
+About Module
 ==============================================================================
 
-[Short description of the addon.]
+This is a module of [ahlev.com](https://ahlev.com). It takes care of site information.
 
 
 Compatibility
@@ -16,14 +16,17 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-engine-ahlev-about
+ember install https://github.com/ohahlev/ember-engine-ahlev-about
 ```
 
 
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+This module provides:
+* components
+* routes
+* services
 
 
 Contributing
