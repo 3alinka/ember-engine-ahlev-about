@@ -5,19 +5,18 @@ This is one of the modules; helps building up the main application [ahlev.com](h
 
 The architecture design could be found in [main app](https://github.com/ohahlev/ember-ahlev-app)
 
+It takes care of the information about the site owner such as about information, contact information...etc
 
-Detail
+Stand Alone
 ------------------------------------------------------------------------------
+```
+ember serve
+```
 
-This module takes care of the information about the site owner such as about information, contact information..etc
-
-Compatibility
-------------------------------------------------------------------------------
-
-* Ember.js v3.12 or above
-* Ember CLI v2.13 or above
-* Node.js v10 or above
-
+And go to 
+```
+http//localhost:4200/about
+```
 
 Installation
 ------------------------------------------------------------------------------
@@ -33,6 +32,13 @@ Router.map(function() {
   this.mount('ember-engine-ahlev-about', { path: 'ahlev-about'});
 });
 ```
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v3.12 or above
+* Ember CLI v2.13 or above
+* Node.js v10 or above
 
 
 Usage
