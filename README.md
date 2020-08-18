@@ -16,7 +16,7 @@ ember serve
 
 And go to 
 ```
-http//localhost:4200/about
+http://localhost:4200/about
 ```
 
 Installation
