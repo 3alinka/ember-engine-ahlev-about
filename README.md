@@ -3,7 +3,7 @@ About Module
 
 This is one of the modules; helps building up the main application [ahlev.com](https://ahlev.com).
 
-The architecture design could be found in [main app](https://github.com/ohahlev/ember-ahlev-app)
+The architecture design could be found in [main app](https://github.com/3alinka/ember-ahlev-app)
 
 It takes care of showing the information about me. Since this is about me, and I want this page to load as fast as possible, so every information is hard-coded.
 
